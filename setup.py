@@ -3,7 +3,7 @@ from os import path
 
 classifiers = [
     "Development Status :: 3 - Alpha",
-    "Intended Audience :: Financial and Insurance Industry",
+    "Intended Audience :: Financial & Insurance Industry",
     "Programming Language :: Python",
     "Operating System :: OS Independent",
     "Natural Language :: English",
