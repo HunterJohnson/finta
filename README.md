@@ -93,6 +93,9 @@ Finta supports 75 trading indicators:
 * Finite Volume Element 'FVE'
 * Volume Flow Indicator 'VFI'
 * Moving Standard deviation 'MSD'
+
+** add --> volume / sentiment+NLP+newsfeed APIs / crypto / cointegration + correlations/pairs 
+  / mean reversion (biggest +/-) over n-days trained on hist. data
 ```
 
 ## Dependencies:
